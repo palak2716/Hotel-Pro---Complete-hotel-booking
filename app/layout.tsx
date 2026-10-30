@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'hotel pro App',
-  description: 'Created by Oisemeka Okpaleke',
-  generator: 'olisemeka',
+  description: 'Created by palak',
+  generator: 'palak',
 }
 
 export default function RootLayout({
